@@ -8,9 +8,14 @@
   <a href="https://github.com/wequgy?tab=repositories">repositories</a>
 </p>
 
+<<<<<<< HEAD
 <br/>
 
 <p align="center"><sub><b>SELECTED WORK</b></sub></p>
+=======
+<img src="assets/sec_toolkit.svg" width="100%" alt="Toolkit"/>
+<img src="assets/toolkit_v2.svg" width="100%" alt="Python, C, Java, JavaScript, Kotlin, TypeScript, scikit-learn, Sentence Transformers, XGBoost, Gemini API, FastAPI, Flask, SQLAlchemy, PostgreSQL, SQLite, React, React Native, Vue, Electron, Git, Linux, Android, Chrome Extensions"/>
+>>>>>>> fd873d2925ceadd40d61df597046780d07215122
 
 <table>
 <tr>
@@ -59,6 +64,7 @@ Parking discovery and reservation with conflict-free booking on a normalized rel
 
 <br/>
 
+<<<<<<< HEAD
 <p align="center"><sub><b>TOOLKIT</b></sub></p>
 
 <p align="center">
@@ -77,3 +83,6 @@ Parking discovery and reservation with conflict-free booking on a normalized rel
 <br/>
 
 <p align="center"><sub>make it work &nbsp;→&nbsp; make it right &nbsp;→&nbsp; make it beautiful</sub></p>
+=======
+<img src="assets/footer.svg" width="100%" alt="Goutham Sankar"/>
+>>>>>>> fd873d2925ceadd40d61df597046780d07215122
