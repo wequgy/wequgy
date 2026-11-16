@@ -8,8 +8,8 @@
   <a href="https://github.com/wequgy?tab=repositories">REPOSITORIES</a>
 </p>
 
-<img src="assets/sec_about.svg" width="100%" alt="About"/>
-<img src="assets/about.svg" width="100%" alt="I build machine learning systems that hold up outside a notebook: identity verification against deepfakes, misinformation detection, agent-based simulation."/>
+<img src="assets/sec_toolkit.svg" width="100%" alt="Toolkit"/>
+<img src="assets/toolkit_v2.svg" width="100%" alt="Python, C, Java, JavaScript, Kotlin, TypeScript, scikit-learn, Sentence Transformers, XGBoost, Gemini API, FastAPI, Flask, SQLAlchemy, PostgreSQL, SQLite, React, React Native, Vue, Electron, Git, Linux, Android, Chrome Extensions"/>
 
 <img src="assets/sec_work.svg" width="100%" alt="Selected work"/>
 
@@ -19,8 +19,5 @@
 <a href="https://github.com/wequgy/KickOff"><img src="assets/card_kickoff.svg" width="49%" alt="KickOff"/></a>
 <a href="https://github.com/RedDragon2709/FarmDirect"><img src="assets/card_farmdirect.svg" width="49%" alt="FarmDirect"/></a>
 <a href="https://github.com/wequgy/Pre_Park"><img src="assets/card_prepark.svg" width="49%" alt="Pre Park"/></a>
-
-<img src="assets/sec_toolkit.svg" width="100%" alt="Toolkit"/>
-<img src="assets/toolkit_v2.svg" width="100%" alt="Python, C, Java, JavaScript, Kotlin, TypeScript, scikit-learn, Sentence Transformers, XGBoost, Gemini API, FastAPI, Flask, SQLAlchemy, PostgreSQL, SQLite, React, React Native, Vue, Electron, Git, Linux, Android, Chrome Extensions"/>
 
 <img src="assets/footer.svg" width="100%" alt="Goutham Sankar"/>
