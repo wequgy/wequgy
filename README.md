@@ -13,6 +13,11 @@
 
 <br/>
 
+<img src="assets/sec_edu.svg" width="100%" alt="Education"/>
+<img src="assets/education.svg" width="100%" alt="B.M.S. College of Engineering, B.Tech Computer Science and Engineering, CGPA 9.51. IIT Madras, Diploma in Programming and Data Science, CGPA 7.92."/>
+
+<br/>
+
 <img src="assets/sec_work.svg" width="100%" alt="Selected work"/>
 
 <table>
@@ -37,4 +42,4 @@
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Open to internships, collaborations and good hackathon teams."/>
+<img src="assets/footer.svg" width="100%" alt="Goutham Sankar"/>
