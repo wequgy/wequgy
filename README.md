@@ -11,9 +11,6 @@
 <img src="assets/sec_about.svg" width="100%" alt="About"/>
 <img src="assets/about.svg" width="100%" alt="I build machine learning systems that hold up outside a notebook: identity verification against deepfakes, misinformation detection, agent-based simulation."/>
 
-<img src="assets/sec_edu.svg" width="100%" alt="Education"/>
-<img src="assets/education.svg" width="100%" alt="B.M.S. College of Engineering, B.Tech Computer Science and Engineering, CGPA 9.51. IIT Madras, Diploma in Programming and Data Science, CGPA 7.92."/>
-
 <img src="assets/sec_work.svg" width="100%" alt="Selected work"/>
 
 <a href="https://github.com/wequgy/RyouU"><img src="assets/card_ryouu.svg" width="49%" alt="RyouU"/></a>
