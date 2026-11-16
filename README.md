@@ -1,29 +1,79 @@
-<!-- Repo must be named exactly: wequgy/wequgy (public). Keep the assets/ folder next to this file. -->
+<!-- Repo must be named exactly: wequgy/wequgy (public). Keep assets/hero.svg next to this file. -->
 
-<img src="assets/header.svg" width="100%" alt="Goutham Sankar - AI / ML Engineer, Data Science"/>
+<img src="assets/hero.svg" width="100%" alt="Goutham Sankar. Aspiring SDE and AI/ML engineer."/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gouthamsankar2028/">LINKEDIN</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="mailto:gouthamsankar@outlook.in">EMAIL</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://github.com/wequgy?tab=repositories">REPOSITORIES</a>
+  <a href="https://www.linkedin.com/in/gouthamsankar2028/">linkedin</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:gouthamsankar@outlook.in">email</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/wequgy?tab=repositories">repositories</a>
 </p>
 
-<img src="assets/sec_about.svg" width="100%" alt="About"/>
-<img src="assets/about.svg" width="100%" alt="I build machine learning systems that hold up outside a notebook: identity verification against deepfakes, misinformation detection, agent-based simulation."/>
+<br/>
 
-<img src="assets/sec_edu.svg" width="100%" alt="Education"/>
-<img src="assets/education.svg" width="100%" alt="B.M.S. College of Engineering, B.Tech Computer Science and Engineering, CGPA 9.51. IIT Madras, Diploma in Programming and Data Science, CGPA 7.92."/>
+<p align="center"><sub><b>SELECTED WORK</b></sub></p>
 
-<img src="assets/sec_work.svg" width="100%" alt="Selected work"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>01</sub><br/>
+<b><a href="https://github.com/wequgy/RyouU">RyouU</a></b><br/>
+Identity verification against cloned faces and voices. Multi-tenant KYC service with SDKs. 5th place, UNCLONE.<br/>
+<sub><code>python</code> <code>fastapi</code> <code>react native</code> <code>electron</code></sub>
+</td>
+<td width="50%" valign="top">
+<sub>02</sub><br/>
+<b><a href="https://github.com/wequgy/EpiSwarm">EpiSwarm</a></b><br/>
+Configurable outbreak simulation and response planning, with individual agent life histories and what-if analysis.<br/>
+<sub><code>simulation</code> <code>agent-based modelling</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>03</sub><br/>
+<b><a href="https://github.com/wequgy/TruthLens">TruthLens</a></b><br/>
+Chrome extension that scores news articles sentence by sentence and explains what looks misleading.<br/>
+<sub><code>python</code> <code>flask</code> <code>scikit-learn</code> <code>gemini</code></sub>
+</td>
+<td width="50%" valign="top">
+<sub>04</sub><br/>
+<b><a href="https://github.com/wequgy/KickOff">KickOff</a></b><br/>
+Home-screen football widget with live scores across the Premier League, Champions League and La Liga.<br/>
+<sub><code>kotlin</code> <code>android</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>05</sub><br/>
+<b><a href="https://github.com/RedDragon2709/FarmDirect">FarmDirect</a></b><br/>
+Team project built in TypeScript.<br/>
+<sub><code>typescript</code></sub>
+</td>
+<td width="50%" valign="top">
+<sub>06</sub><br/>
+<b><a href="https://github.com/wequgy/Pre_Park">Pre Park</a></b><br/>
+Parking discovery and reservation with conflict-free booking on a normalized relational schema.<br/>
+<sub><code>python</code> <code>flask</code> <code>sqlalchemy</code></sub>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/wequgy/RyouU"><img src="assets/card_ryouu.svg" width="49%" alt="RyouU"/></a>
-<a href="https://github.com/wequgy/EpiSwarm"><img src="assets/card_episwarm.svg" width="49%" alt="EpiSwarm"/></a>
-<a href="https://github.com/wequgy/TruthLens"><img src="assets/card_truthlens.svg" width="49%" alt="TruthLens"/></a>
-<a href="https://github.com/wequgy/KickOff"><img src="assets/card_kickoff.svg" width="49%" alt="KickOff"/></a>
-<a href="https://github.com/RedDragon2709/FarmDirect"><img src="assets/card_farmdirect.svg" width="49%" alt="FarmDirect"/></a>
-<a href="https://github.com/wequgy/Pre_Park"><img src="assets/card_prepark.svg" width="49%" alt="Pre Park"/></a>
+<br/>
 
-<img src="assets/sec_toolkit.svg" width="100%" alt="Toolkit"/>
-<img src="assets/toolkit_v2.svg" width="100%" alt="Python, C, Java, JavaScript, Kotlin, TypeScript, scikit-learn, Sentence Transformers, XGBoost, Gemini API, FastAPI, Flask, SQLAlchemy, PostgreSQL, SQLite, React, React Native, Vue, Electron, Git, Linux, Android, Chrome Extensions"/>
+<p align="center"><sub><b>TOOLKIT</b></sub></p>
 
-<img src="assets/footer.svg" width="100%" alt="Goutham Sankar"/>
+<p align="center">
+  <sub>LANGUAGES</sub><br/>
+  Python · C · Java · JavaScript · Kotlin · TypeScript<br/><br/>
+  <sub>ML &amp; DATA</sub><br/>
+  scikit-learn · Sentence Transformers · XGBoost · Gemini API<br/><br/>
+  <sub>BACKEND</sub><br/>
+  FastAPI · Flask · SQLAlchemy · PostgreSQL · SQLite<br/><br/>
+  <sub>FRONTEND</sub><br/>
+  React · React Native · Vue · Electron<br/><br/>
+  <sub>TOOLS</sub><br/>
+  Git · Linux · Android · Chrome Extensions
+</p>
+
+<br/>
+
+<p align="center"><sub>make it work &nbsp;→&nbsp; make it right &nbsp;→&nbsp; make it beautiful</sub></p>
